@@ -1,7 +1,7 @@
 'use strict';
 
 module.exports = {
-  url: 'andrewblum.me',
+  url: 'http://andrewblum.me',
   pathPrefix: '/',
   title: 'Andrew Blum',
   subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
@@ -26,7 +26,7 @@ module.exports = {
   ],
   author: {
     name: 'Andrew Blum',
-    photo: '/photo.jpg',
+    photo: '/photo.png',
     bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
     contacts: {
       email: '',
