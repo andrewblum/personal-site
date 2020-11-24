@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Andrew Blum]]></title><description><![CDATA[Coder, teacher, ally.]]></description><link>http://andrewblum.me</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 24 Nov 2020 02:12:39 GMT</lastBuildDate><item><title><![CDATA[Making Soundcloud In React and Rails]]></title><description><![CDATA[Quisque cursus, metus vitae pharetra auctor, sem massa mattis sem, at interdum magna augue eget diam. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Morbi lacinia molestie dui. Praesent blandit dolor. Sed non quam. In vel mi sit amet augue congue elementum.]]></description><link>http://andrewblum.me/posts/two-sum</link><guid isPermaLink="false">http://andrewblum.me/posts/two-sum</guid><pubDate>Sun, 01 Nov 2020 23:46:37 GMT</pubDate><content:encoded>&lt;p&gt;Quisque cursus, metus vitae pharetra auctor, sem massa mattis sem, at interdum magna augue eget diam. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Morbi lacinia molestie dui. Praesent blandit dolor. Sed non quam. In vel mi sit amet augue congue elementum.&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Andrew Blum]]></title><description><![CDATA[Coder, teacher, ally.]]></description><link>http://andrewblum.me</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 24 Nov 2020 02:18:52 GMT</lastBuildDate><item><title><![CDATA[The Stairway to Heaven of Algorithm Problems]]></title><description><![CDATA[Quisque cursus, metus vitae pharetra auctor, sem massa mattis sem, at interdum magna augue eget diam. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Morbi lacinia molestie dui. Praesent blandit dolor. Sed non quam. In vel mi sit amet augue congue elementum.]]></description><link>http://andrewblum.me/posts/two-sum</link><guid isPermaLink="false">http://andrewblum.me/posts/two-sum</guid><pubDate>Sun, 01 Nov 2020 23:46:37 GMT</pubDate><content:encoded>&lt;p&gt;Quisque cursus, metus vitae pharetra auctor, sem massa mattis sem, at interdum magna augue eget diam. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Morbi lacinia molestie dui. Praesent blandit dolor. Sed non quam. In vel mi sit amet augue congue elementum.&lt;/p&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 960px;&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 960px; &quot;
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
@@ -12,7 +12,7 @@
   &gt;
     &lt;span
     class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 66.66666666666666%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAQBAgMF/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAH/2gAMAwEAAhADEAAAAaa8hyWBEP/EABoQAAIDAQEAAAAAAAAAAAAAAAECAAMSBBP/2gAIAQEAAQUCPOXmbM+hSK5BbqszP//EABURAQEAAAAAAAAAAAAAAAAAAAAR/9oACAEDAQE/AVf/xAAVEQEBAAAAAAAAAAAAAAAAAAAAEf/aAAgBAgEBPwFH/8QAHRAAAAYDAQAAAAAAAAAAAAAAAAECEBESISJxof/aAAgBAQAGPwKbkNIVwVWWWr63/8QAGhAAAwADAQAAAAAAAAAAAAAAAAERITFh8P/aAAgBAQABPyHduKW4HKoEp4zfE7OkG8yXCyU//9oADAMBAAIAAwAAABAAD//EABcRAQEBAQAAAAAAAAAAAAAAAAEAETH/2gAIAQMBAT8QE7av/8QAFxEAAwEAAAAAAAAAAAAAAAAAAAERMf/aAAgBAgEBPxB3CT//xAAcEAEAAgMBAQEAAAAAAAAAAAABABEhQVFxYaH/2gAIAQEAAT8Q1tFIaHmY6qk11VGkZj6wwX+QQjfXfeygHuMAHzkVauVyruf/2Q==&apos;); background-size: cover; display: block;&quot;
+    style=&quot;padding-bottom: 66.66666666666666%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAQBAgMF/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAH/2gAMAwEAAhADEAAAAaa8hyWBEP/EABoQAAIDAQEAAAAAAAAAAAAAAAECAAMSBBP/2gAIAQEAAQUCbnLzNmfQpFcgt1WZn//EABURAQEAAAAAAAAAAAAAAAAAAAAR/9oACAEDAQE/AVf/xAAVEQEBAAAAAAAAAAAAAAAAAAAAEf/aAAgBAgEBPwFH/8QAHRAAAAUFAAAAAAAAAAAAAAAAAAIQERIBIjFxof/aAAgBAQAGPwJ50FrG0Inykep//8QAGxAAAgMAAwAAAAAAAAAAAAAAAREAITFRYZH/2gAIAQEAAT8h4ehN1DRUAVs9mcK7NJC1EDoLjn//2gAMAwEAAgADAAAAEGMP/8QAFxEBAQEBAAAAAAAAAAAAAAAAAQARMf/aAAgBAwEBPxATtq//xAAXEQADAQAAAAAAAAAAAAAAAAAAAREx/9oACAECAQE/EHcIP//EABwQAQACAgMBAAAAAAAAAAAAAAERIQBRQWFxof/aAAgBAQABPxCzPBCGB5ePLkmxUOEXj7iwT8wQkne/d5IBtUAdaxUqyravOf/Z&apos;); background-size: cover; display: block;&quot;
   &gt;&lt;/span&gt;
   &lt;picture&gt;
         &lt;source
@@ -45,10 +45,10 @@
   &lt;/a&gt;
     &lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. &lt;/p&gt;
-&lt;p&gt;Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[The Stairway to Heaven of Algorithm Problems]]></title><description><![CDATA[Quisque cursus, metus vitae pharetra auctor, sem massa mattis sem, at interdum magna augue eget diam. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Morbi lacinia molestie dui. Praesent blandit dolor. Sed non quam. In vel mi sit amet augue congue elementum.]]></description><link>http://andrewblum.me/posts/two-sum</link><guid isPermaLink="false">http://andrewblum.me/posts/two-sum</guid><pubDate>Sun, 01 Nov 2020 23:46:37 GMT</pubDate><content:encoded>&lt;p&gt;Quisque cursus, metus vitae pharetra auctor, sem massa mattis sem, at interdum magna augue eget diam. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Morbi lacinia molestie dui. Praesent blandit dolor. Sed non quam. In vel mi sit amet augue congue elementum.&lt;/p&gt;
+&lt;p&gt;Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Making Soundcloud In React and Rails]]></title><description><![CDATA[Quisque cursus, metus vitae pharetra auctor, sem massa mattis sem, at interdum magna augue eget diam. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Morbi lacinia molestie dui. Praesent blandit dolor. Sed non quam. In vel mi sit amet augue congue elementum.]]></description><link>http://andrewblum.me/posts/two-sum</link><guid isPermaLink="false">http://andrewblum.me/posts/two-sum</guid><pubDate>Sun, 01 Nov 2020 23:46:37 GMT</pubDate><content:encoded>&lt;p&gt;Quisque cursus, metus vitae pharetra auctor, sem massa mattis sem, at interdum magna augue eget diam. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Morbi lacinia molestie dui. Praesent blandit dolor. Sed non quam. In vel mi sit amet augue congue elementum.&lt;/p&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 960px;&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 960px; &quot;
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
@@ -59,7 +59,7 @@
   &gt;
     &lt;span
     class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 66.66666666666666%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAQBAgMF/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAH/2gAMAwEAAhADEAAAAaa8hyWBEP/EABoQAAIDAQEAAAAAAAAAAAAAAAECAAMSBBP/2gAIAQEAAQUCPOXmbM+hSK5BbqszP//EABURAQEAAAAAAAAAAAAAAAAAAAAR/9oACAEDAQE/AVf/xAAVEQEBAAAAAAAAAAAAAAAAAAAAEf/aAAgBAgEBPwFH/8QAHRAAAAYDAQAAAAAAAAAAAAAAAAECEBESISJxof/aAAgBAQAGPwKbkNIVwVWWWr63/8QAGhAAAwADAQAAAAAAAAAAAAAAAAERITFh8P/aAAgBAQABPyHduKW4HKoEp4zfE7OkG8yXCyU//9oADAMBAAIAAwAAABAAD//EABcRAQEBAQAAAAAAAAAAAAAAAAEAETH/2gAIAQMBAT8QE7av/8QAFxEAAwEAAAAAAAAAAAAAAAAAAAERMf/aAAgBAgEBPxB3CT//xAAcEAEAAgMBAQEAAAAAAAAAAAABABEhQVFxYaH/2gAIAQEAAT8Q1tFIaHmY6qk11VGkZj6wwX+QQjfXfeygHuMAHzkVauVyruf/2Q==&apos;); background-size: cover; display: block;&quot;
+    style=&quot;padding-bottom: 66.66666666666666%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAQBAgMF/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAH/2gAMAwEAAhADEAAAAaa8hyWBEP/EABoQAAIDAQEAAAAAAAAAAAAAAAECAAMSBBP/2gAIAQEAAQUCbnLzNmfQpFcgt1WZn//EABURAQEAAAAAAAAAAAAAAAAAAAAR/9oACAEDAQE/AVf/xAAVEQEBAAAAAAAAAAAAAAAAAAAAEf/aAAgBAgEBPwFH/8QAHRAAAAUFAAAAAAAAAAAAAAAAAAIQERIBIjFxof/aAAgBAQAGPwJ50FrG0Inykep//8QAGxAAAgMAAwAAAAAAAAAAAAAAAREAITFRYZH/2gAIAQEAAT8h4ehN1DRUAVs9mcK7NJC1EDoLjn//2gAMAwEAAgADAAAAEGMP/8QAFxEBAQEBAAAAAAAAAAAAAAAAAQARMf/aAAgBAwEBPxATtq//xAAXEQADAQAAAAAAAAAAAAAAAAAAAREx/9oACAECAQE/EHcIP//EABwQAQACAgMBAAAAAAAAAAAAAAERIQBRQWFxof/aAAgBAQABPxCzPBCGB5ePLkmxUOEXj7iwT8wQkne/d5IBtUAdaxUqyravOf/Z&apos;); background-size: cover; display: block;&quot;
   &gt;&lt;/span&gt;
   &lt;picture&gt;
         &lt;source
@@ -106,7 +106,7 @@
 &lt;p&gt;The first printed books were, at first, perceived as inferior to the handwritten ones. They were smaller and cheaper to produce. Movable type provided the printers with flexibility that allowed them to print books in languages other than Latin. Gill describes the transition to industrialism as something that people needed and wanted. Something similar happened after the first printed books emerged. People wanted books in a language they understood and they wanted books they could take with them. They were hungry for knowledge and printed books satisfied this hunger.&lt;/p&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 800px;&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 800px; &quot;
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
@@ -117,7 +117,7 @@
   &gt;
     &lt;span
     class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 68.75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAOABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAIEA//EABUBAQEAAAAAAAAAAAAAAAAAAAEA/9oADAMBAAIQAxAAAAG9hSrMxf/EABoQAAICAwAAAAAAAAAAAAAAAAACARIQETH/2gAIAQEAAQUC4XYi2NqLZo//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/AT//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/AT//xAAaEAACAgMAAAAAAAAAAAAAAAAAARFBAhBx/9oACAEBAAY/AlqhSWSsoXD/xAAcEAEAAgIDAQAAAAAAAAAAAAABABEhQTFRYZH/2gAIAQEAAT8hbFV3ACrcETOK6tmKVsdRp+YPKwn/2gAMAwEAAgADAAAAEH/P/8QAFhEBAQEAAAAAAAAAAAAAAAAAAAER/9oACAEDAQE/EKyP/8QAFREBAQAAAAAAAAAAAAAAAAAAARD/2gAIAQIBAT8QJ//EABoQAQEAAgMAAAAAAAAAAAAAAAERACExQVH/2gAIAQEAAT8QUSVSDzkUkLU7uPEbsWpO9e3AkarliEANePcMDTSBSa5uf//Z&apos;); background-size: cover; display: block;&quot;
+    style=&quot;padding-bottom: 68.75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAOABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAIEAQP/xAAVAQEBAAAAAAAAAAAAAAAAAAABAP/aAAwDAQACEAMQAAABufUGs5jf/8QAGhAAAgIDAAAAAAAAAAAAAAAAAAIBEhARMf/aAAgBAQABBQLhdiLY2otmj//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EABoQAAICAwAAAAAAAAAAAAAAAAABEUECEHH/2gAIAQEABj8CWqFJZKzhcP/EABoQAAICAwAAAAAAAAAAAAAAAAABESExQVH/2gAIAQEAAT8htIzvAkKJdIZ1iOrKhtOD58i2UYQ//9oADAMBAAIAAwAAABCLz//EABURAQEAAAAAAAAAAAAAAAAAAAEQ/9oACAEDAQE/EGf/xAAVEQEBAAAAAAAAAAAAAAAAAAABEP/aAAgBAgEBPxAn/8QAGxABAAIDAQEAAAAAAAAAAAAAAQARITFRQYH/2gAIAQEAAT8QURjCRbioVC2xo2WyVaV7jtwCCrbaU0oxx2BWbCVKxv5P/9k=&apos;); background-size: cover; display: block;&quot;
   &gt;&lt;/span&gt;
   &lt;picture&gt;
         &lt;source
@@ -172,7 +172,7 @@
 &lt;p&gt;We’ve come close to “perfection” in the last five centuries. The letters are crisp and without rough edges. We print our compositions with high–precision printers on a high quality, machine made paper.&lt;/p&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 960px;&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 960px; &quot;
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
@@ -183,7 +183,7 @@
   &gt;
     &lt;span
     class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 20%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAEABQDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAAT/xAAVAQEBAAAAAAAAAAAAAAAAAAABAv/aAAwDAQACEAMQAAABtoJaRR//xAAWEAEBAQAAAAAAAAAAAAAAAAAAAjH/2gAIAQEAAQUClOv/xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/AT//xAAVEQEBAAAAAAAAAAAAAAAAAAABEP/aAAgBAgEBPwEn/8QAFhAAAwAAAAAAAAAAAAAAAAAAAAEQ/9oACAEBAAY/Ahz/xAAYEAACAwAAAAAAAAAAAAAAAAABIQAQUf/aAAgBAQABPyEi2Zsr/9oADAMBAAIAAwAAABAID//EABURAQEAAAAAAAAAAAAAAAAAAAEQ/9oACAEDAQE/EGf/xAAVEQEBAAAAAAAAAAAAAAAAAAAQMf/aAAgBAgEBPxCD/8QAGRABAAMBAQAAAAAAAAAAAAAAAQARQSEx/9oACAEBAAE/EAerusaDZp1lz//Z&apos;); background-size: cover; display: block;&quot;
+    style=&quot;padding-bottom: 20%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAEABQDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAAT/xAAVAQEBAAAAAAAAAAAAAAAAAAABAv/aAAwDAQACEAMQAAABtoJaRR//xAAWEAEBAQAAAAAAAAAAAAAAAAACABD/2gAIAQEAAQUCMM//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/AT//xAAVEQEBAAAAAAAAAAAAAAAAAAABEP/aAAgBAgEBPwEn/8QAFhAAAwAAAAAAAAAAAAAAAAAAAAEQ/9oACAEBAAY/Ahz/xAAaEAABBQEAAAAAAAAAAAAAAAAhAAEQETFx/9oACAEBAAE/IbEutdR//9oADAMBAAIAAwAAABB4D//EABURAQEAAAAAAAAAAAAAAAAAAAEQ/9oACAEDAQE/EGf/xAAVEQEBAAAAAAAAAAAAAAAAAAAQMf/aAAgBAgEBPxCD/8QAGBABAAMBAAAAAAAAAAAAAAAAAQARIUH/2gAIAQEAAT8QQNG9YkO1rqXP/9k=&apos;); background-size: cover; display: block;&quot;
   &gt;&lt;/span&gt;
   &lt;picture&gt;
         &lt;source
@@ -259,7 +259,7 @@
 &lt;p&gt;Gutenberg’s early printing process, and what tests he may have made with movable type, are not known in great detail. His later Bibles were printed in such a way as to have required large quantities of type, some estimates suggesting as many as 100,000 individual sorts. Setting each page would take, perhaps, half a day, and considering all the work in loading the press, inking the type, pulling the impressions, hanging up the sheets, distributing the type, etc., it is thought that the Gutenberg–Fust shop might have employed as many as 25 craftsmen.&lt;/p&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 960px;&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 960px; &quot;
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
@@ -270,7 +270,7 @@
   &gt;
     &lt;span
     class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 66.43356643356644%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAMBAgT/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/aAAwDAQACEAMQAAABlT8ktxAf/8QAGBABAQEBAQAAAAAAAAAAAAAAAQARAkH/2gAIAQEAAQUC8tkNJ7x//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPwE//8QAGRAAAgMBAAAAAAAAAAAAAAAAARAAETFR/9oACAEBAAY/AidlLOv/xAAZEAEAAwEBAAAAAAAAAAAAAAABABEhUUH/2gAIAQEAAT8hGrOMO3FDOPkxyVDQzBzksaLuxEKn/9oADAMBAAIAAwAAABDQD//EABURAQEAAAAAAAAAAAAAAAAAAAAR/9oACAEDAQE/EKr/xAAWEQEBAQAAAAAAAAAAAAAAAAABABH/2gAIAQIBAT8QCwb/xAAeEAEBAAICAgMAAAAAAAAAAAABEQAhMVFB4WGR8P/aAAgBAQABPxBGghtORln24lVU05k694Azx6uOmCkYRJ7fOW7gELT9vAiNOf/Z&apos;); background-size: cover; display: block;&quot;
+    style=&quot;padding-bottom: 66.25%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAMBAgT/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/aAAwDAQACEAMQAAABlT8ktxAf/8QAGRABAAIDAAAAAAAAAAAAAAAAAQARAiFB/9oACAEBAAEFAuS4hZHPf//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EABoQAAICAwAAAAAAAAAAAAAAAAEQABExUZH/2gAIAQEABj8CJ5KWNv8A/8QAGhABAAMBAQEAAAAAAAAAAAAAAQARIVFBgf/aAAgBAQABPyEauXWdRQzj5PiVDQxUc5LGi7sQRU//2gAMAwEAAgADAAAAENAP/8QAFREBAQAAAAAAAAAAAAAAAAAAEQD/2gAIAQMBAT8QZL//xAAWEQEBAQAAAAAAAAAAAAAAAAABABH/2gAIAQIBAT8QCwb/xAAcEAEBAQEAAgMAAAAAAAAAAAABESEAYeFRkfD/2gAIAQEAAT8QRgSgmFyz7eSHVIHZPj3wDNzy86IMjCJPbz1ugBC0/bwZGM7/2Q==&apos;); background-size: cover; display: block;&quot;
   &gt;&lt;/span&gt;
   &lt;picture&gt;
         &lt;source
@@ -324,7 +324,7 @@
 &lt;p&gt;Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui.  &lt;a href=&quot;#&quot;&gt;Donec non enim&lt;/a&gt; in turpis pulvinar facilisis.&lt;/p&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 960px;&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 960px; &quot;
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
@@ -335,7 +335,7 @@
   &gt;
     &lt;span
     class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAEDBP/EABUBAQEAAAAAAAAAAAAAAAAAAAAB/9oADAMBAAIQAxAAAAHflc0iMP/EABoQAQADAAMAAAAAAAAAAAAAAAIAARIDITL/2gAIAQEAAQUCazPUfISkq0O4hq//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/AT//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/AT//xAAaEAACAgMAAAAAAAAAAAAAAAAAARARIVFh/9oACAEBAAY/AumSqLE9OP/EABwQAAICAgMAAAAAAAAAAAAAAAABESExQVFxsf/aAAgBAQABPyFCxkW2cOezInZKcmNU2eiZHqj/2gAMAwEAAgADAAAAEM8v/8QAFxEAAwEAAAAAAAAAAAAAAAAAAAERIf/aAAgBAwEBPxBRGH//xAAWEQEBAQAAAAAAAAAAAAAAAAABEBH/2gAIAQIBAT8QdZ//xAAbEAEBAQADAQEAAAAAAAAAAAABEQAhMVFBof/aAAgBAQABPxA0CnR5gPVEC8GfmdQoKlzWLWanRm+ctDjjEKA108Xf/9k=&apos;); background-size: cover; display: block;&quot;
+    style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAQBAgP/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/aAAwDAQACEAMQAAABfVKJiSV//8QAGhABAAMAAwAAAAAAAAAAAAAAAgABEgMhMv/aAAgBAQABBQJrM9R8lFJVodxDV//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EABoQAAICAwAAAAAAAAAAAAAAAAABEBEhUWH/2gAIAQEABj8C6ZKosT04/8QAGhAAAgMBAQAAAAAAAAAAAAAAAAERITFBsf/aAAgBAQABPyFFVYUtuHNdNc9JaWmZ09EyPlH/2gAMAwEAAgADAAAAEG8P/8QAFxEAAwEAAAAAAAAAAAAAAAAAAAERIf/aAAgBAwEBPxBRGH//xAAWEQEBAQAAAAAAAAAAAAAAAAABEBH/2gAIAQIBAT8QdZ//xAAbEAEBAQADAQEAAAAAAAAAAAABEQAhMVFBof/aAAgBAQABPxAwKnzzAdUQngh+ZsDQVBzkKtanRkzuyhxxiFAa6eLv/9k=&apos;); background-size: cover; display: block;&quot;
   &gt;&lt;/span&gt;
   &lt;picture&gt;
         &lt;source
@@ -396,7 +396,7 @@
 &lt;p&gt;&lt;img src=&quot;/71ba9417da76c390c80ad2f49c9c227d/cpu.svg&quot; alt=&quot;Test SVG&quot;&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Perfecting the Art of Perfection]]></title><description><![CDATA[Quisque cursus, metus vitae pharetra auctor, sem massa mattis sem, at interdum magna augue eget diam. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Morbi lacinia molestie dui. Praesent blandit dolor. Sed non quam. In vel mi sit amet augue congue elementum.]]></description><link>http://andrewblum.me/posts/perfecting-the-art-of-perfection</link><guid isPermaLink="false">http://andrewblum.me/posts/perfecting-the-art-of-perfection</guid><pubDate>Thu, 01 Sep 2016 23:46:37 GMT</pubDate><content:encoded>&lt;p&gt;Quisque cursus, metus vitae pharetra auctor, sem massa mattis sem, at interdum magna augue eget diam. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Morbi lacinia molestie dui. Praesent blandit dolor. Sed non quam. In vel mi sit amet augue congue elementum.&lt;/p&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 960px;&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 960px; &quot;
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
@@ -407,7 +407,7 @@
   &gt;
     &lt;span
     class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 66.66666666666666%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAQBAgMF/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAH/2gAMAwEAAhADEAAAAaa8hyWBEP/EABoQAAIDAQEAAAAAAAAAAAAAAAECAAMSBBP/2gAIAQEAAQUCPOXmbM+hSK5BbqszP//EABURAQEAAAAAAAAAAAAAAAAAAAAR/9oACAEDAQE/AVf/xAAVEQEBAAAAAAAAAAAAAAAAAAAAEf/aAAgBAgEBPwFH/8QAHRAAAAYDAQAAAAAAAAAAAAAAAAECEBESISJxof/aAAgBAQAGPwKbkNIVwVWWWr63/8QAGhAAAwADAQAAAAAAAAAAAAAAAAERITFh8P/aAAgBAQABPyHduKW4HKoEp4zfE7OkG8yXCyU//9oADAMBAAIAAwAAABAAD//EABcRAQEBAQAAAAAAAAAAAAAAAAEAETH/2gAIAQMBAT8QE7av/8QAFxEAAwEAAAAAAAAAAAAAAAAAAAERMf/aAAgBAgEBPxB3CT//xAAcEAEAAgMBAQEAAAAAAAAAAAABABEhQVFxYaH/2gAIAQEAAT8Q1tFIaHmY6qk11VGkZj6wwX+QQjfXfeygHuMAHzkVauVyruf/2Q==&apos;); background-size: cover; display: block;&quot;
+    style=&quot;padding-bottom: 66.66666666666666%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAQBAgMF/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAH/2gAMAwEAAhADEAAAAaa8hyWBEP/EABoQAAIDAQEAAAAAAAAAAAAAAAECAAMSBBP/2gAIAQEAAQUCbnLzNmfQpFcgt1WZn//EABURAQEAAAAAAAAAAAAAAAAAAAAR/9oACAEDAQE/AVf/xAAVEQEBAAAAAAAAAAAAAAAAAAAAEf/aAAgBAgEBPwFH/8QAHRAAAAUFAAAAAAAAAAAAAAAAAAIQERIBIjFxof/aAAgBAQAGPwJ50FrG0Inykep//8QAGxAAAgMAAwAAAAAAAAAAAAAAAREAITFRYZH/2gAIAQEAAT8h4ehN1DRUAVs9mcK7NJC1EDoLjn//2gAMAwEAAgADAAAAEGMP/8QAFxEBAQEBAAAAAAAAAAAAAAAAAQARMf/aAAgBAwEBPxATtq//xAAXEQADAQAAAAAAAAAAAAAAAAAAAREx/9oACAECAQE/EHcIP//EABwQAQACAgMBAAAAAAAAAAAAAAERIQBRQWFxof/aAAgBAQABPxCzPBCGB5ePLkmxUOEXj7iwT8wQkne/d5IBtUAdaxUqyravOf/Z&apos;); background-size: cover; display: block;&quot;
   &gt;&lt;/span&gt;
   &lt;picture&gt;
         &lt;source
@@ -444,7 +444,7 @@
 &lt;p&gt;Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui.  &lt;a href=&quot;#&quot;&gt;Donec non enim&lt;/a&gt; in turpis pulvinar facilisis.&lt;/p&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 960px;&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 960px; &quot;
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
@@ -455,7 +455,7 @@
   &gt;
     &lt;span
     class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 66.66666666666666%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwAE/8QAFQEBAQAAAAAAAAAAAAAAAAAAAQL/2gAMAwEAAhADEAAAAVhO4azw/wD/xAAcEAABAwUAAAAAAAAAAAAAAAABAAIhAxESMkH/2gAIAQEAAQUCBQkPxvKp6d//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/AT//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/AT//xAAZEAACAwEAAAAAAAAAAAAAAAAAARAhYXH/2gAIAQEABj8CmhaPp//EAB0QAQADAAEFAAAAAAAAAAAAAAEAESExQVFhcYH/2gAIAQEAAT8htrv1hy4LT3KNpfmLq1U1Oc66X7GnMxE//9oADAMBAAIAAwAAABBzD//EABYRAAMAAAAAAAAAAAAAAAAAAAABIf/aAAgBAwEBPxBKEP/EABYRAAMAAAAAAAAAAAAAAAAAAAABIf/aAAgBAgEBPxBulP/EAB0QAQACAgIDAAAAAAAAAAAAAAEAESExQWFRcbH/2gAIAQEAAT8QGoNcw44SBSasTtvqOqqmWzEKyw4t138gKUs5A3YhC8wW8+5//9k=&apos;); background-size: cover; display: block;&quot;
+    style=&quot;padding-bottom: 66.66666666666666%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwAE/8QAFgEBAQEAAAAAAAAAAAAAAAAAAgED/9oADAMBAAIQAxAAAAFYTebWei//xAAcEAABAwUAAAAAAAAAAAAAAAABAAIhAxESMkH/2gAIAQEAAQUCBQkPxvKp6d//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/AT//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/AT//xAAZEAACAwEAAAAAAAAAAAAAAAAAARAhYXH/2gAIAQEABj8CmhaPp//EAB0QAAICAgMBAAAAAAAAAAAAAAERACExcUFhgZH/2gAIAQEAAT8hbvmD1BkbiLkewmzJFTON5H7CjWKIT//aAAwDAQACAAMAAAAQVw//xAAXEQEBAQEAAAAAAAAAAAAAAAABABEh/9oACAEDAQE/EA5aX//EABYRAAMAAAAAAAAAAAAAAAAAAAABIf/aAAgBAgEBPxBulP/EAB0QAQEAAwACAwAAAAAAAAAAAAERACFRMWFBcZH/2gAIAQEAAT8QGQHXc58TNFUqDhl9Yo6pvZxytsNK+F/PWARatKjaO4QuwK+H7z//2Q==&apos;); background-size: cover; display: block;&quot;
   &gt;&lt;/span&gt;
   &lt;picture&gt;
         &lt;source
