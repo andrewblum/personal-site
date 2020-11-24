@@ -17,11 +17,11 @@ module.exports = {
     },
     {
       label: 'Problems',
-      path: '/pages/problems'
+      path: '/category/problems/'
     },
     {
       label: 'Projects',
-      path: '/pages/projects'
+      path: '/category/projects'
     },
     {
       label: 'About me',
@@ -37,10 +37,10 @@ module.exports = {
       facebook: '',
       telegram: '',
       twitter: '',
-      github: 'https://github.com/andrewblum',
+      github: 'andrewblum',
       rss: '',
       vkontakte: '',
-      linkedin: 'https://www.linkedin.com/in/andrew-blum/',
+      linkedin: 'andrew-blum/',
       instagram: '',
       line: '',
       gitlab: '',
