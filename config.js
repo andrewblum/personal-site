@@ -4,7 +4,7 @@ module.exports = {
   url: 'http://andrewblum.me',
   pathPrefix: '/',
   title: 'Andrew Blum',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+  subtitle: 'Coder, teacher, ally.',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
@@ -16,28 +16,32 @@ module.exports = {
       path: '/'
     },
     {
-      label: 'About me',
-      path: '/pages/about'
+      label: 'Problems',
+      path: '/pages/problems'
     },
     {
-      label: 'Contact me',
-      path: '/pages/contacts'
+      label: 'Projects',
+      path: '/pages/projects'
+    },
+    {
+      label: 'About me',
+      path: '/pages/about'
     }
   ],
   author: {
     name: 'Andrew Blum',
     photo: '/photo.png',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    bio: 'Coder, teacher, ally.',
     contacts: {
-      email: '',
-      facebook: '#',
-      telegram: '#',
-      twitter: '#',
-      github: '#',
+      email: 'andrewdblum@gmail.com',
+      facebook: '',
+      telegram: '',
+      twitter: '',
+      github: 'https://github.com/andrewblum',
       rss: '',
       vkontakte: '',
-      linkedin: '#',
-      instagram: '#',
+      linkedin: 'https://www.linkedin.com/in/andrew-blum/',
+      instagram: '',
       line: '',
       gitlab: '',
       weibo: '',
